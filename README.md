@@ -8,4 +8,4 @@
 
 ## Installation
 
-[link](https://github.com/ReinisRu/Skydiving-progression)
+[link](https://reinisru.github.io/Skydiving-progression/)
